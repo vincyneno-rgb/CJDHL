@@ -28,15 +28,7 @@ html {
 }
 
 body {
-  margin: 0;
-  color: var(--ink);
-  font-family: "Manrope", "Segoe UI", sans-serif;
-  line-height: 1.7;
-  background:
-    radial-gradient(circle at top left, rgba(255, 191, 105, 0.18), transparent 24%),
-    radial-gradient(circle at top right, rgba(47, 191, 113, 0.18), transparent 22%),
-    linear-gradient(180deg, #0a2f57 0%, #0d4476 46%, #166534 100%);
-  min-height: 100vh;
+color: red;
 }
 
 body::before {
